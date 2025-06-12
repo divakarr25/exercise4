@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  background: linear-gradient(white,whitesmoke,grey)
+  background: linear-gradient(135deg, #d7cccc 0%, #c0bcc7 50%, #bdcedf 100%);
   font-family: "Roboto Condensed", sans-serif;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -54,9 +54,9 @@ body {
 }
 
 .card {
-  background-color: #fff;
+  background-color: #625252;
   border-radius: 30px;
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 6px 12px rgba(1, 1, 1, 0.15);
   overflow: hidden;
   text-align: center;
 }
