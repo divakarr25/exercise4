@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  background: gray; 
+  background: linear-gradient(white,whitesmoke,grey)
   font-family: "Roboto Condensed", sans-serif;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -87,6 +87,4 @@ body {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-
-
 }
